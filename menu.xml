@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<breakfastMenu>
+	<item category = "entree">
+		<name>Chicken Salad</name>
+		<description>A salad with chicken</description>
+		<price>$9.99</price>
+	</item>
+
+	<item category = "beverage">
+	    <name>Coca-Cola</name>
+        <description>A fizzy cola soda</description>
+        <price>$0.99</price>
+    </item>
+</breakfastMenu>
+
+<dinnerMenu>
+	    <item category="entree">
+        <name>Pastrami Sandwich</name>
+        <description>A sandwich made with pastrami</description>
+        <price>$13.99</price>
+    	</item>
+</dinnerMenu>
